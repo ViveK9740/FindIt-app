@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78531777308",
+    "project_id": "finditapp-392fe",
+    "storage_bucket": "finditapp-392fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78531777308:android:220f0c342ee4645e19e0d9",
+        "android_client_info": {
+          "package_name": "com.findit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78531777308-du5j7ov5gf6bj3tfb30n06h03g3114ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findit.app",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "78531777308-2rogoiao4tttpenlkrhvnafo4kmf3nhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdy4C9GI4qb-2ZlScyFUh-37O4EYD3FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78531777308-2rogoiao4tttpenlkrhvnafo4kmf3nhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="add_item">Add Item</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">78531777308-du5j7ov5gf6bj3tfb30n06h03g3114ki.apps.googleusercontent.com</string>
+
+    <string-array name="post_types">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+
+
+</resources>
